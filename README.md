@@ -4,7 +4,7 @@ This Python program is a simple "Hello World" program.
 
 Its purpose is to test and verify the local Python development environment and tools.
 
-[Software Demo Video](https://youtu.be/yN9cCs9fjBM)
+["Hello World" Demo Video](https://youtu.be/yN9cCs9fjBM)
 
 # Development Environment
 
@@ -14,8 +14,8 @@ The programming langauge used was Python, which requires Python to be installed 
 
 # Useful Websites
 
-- [Web Site Name](https://code.visualstudio.com/)
-- [Web Site Name](https://www.python.org/)
+- [VS Code](https://code.visualstudio.com/)
+- [Python](https://www.python.org/)
 
 # Future Work
 
